@@ -1,0 +1,5 @@
+{
+  "*.(ts)": ["eslint"],
+  "*": ["prettier --write"],
+  "yarn.lock": ["yarn deduplicate"]
+}

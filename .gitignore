@@ -1,5 +1,4 @@
+dist
 node_modules
 *.log
-coverage
-.idea
-package-lock.json
+*.tsbuildinfo

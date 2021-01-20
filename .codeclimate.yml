@@ -1,0 +1,7 @@
+version: '2'
+exclude_patterns:
+  - '**/coverage/'
+  - '**/dist/'
+  - '**/node_modules/'
+  - '**/*.test.ts'
+  - '**/jest.config.js'
